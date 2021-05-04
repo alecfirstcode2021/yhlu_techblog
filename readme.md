@@ -5,11 +5,12 @@
 The demo is a MVC web similar to a Wordpress site, where users can publish posts and add comment after login.
 
 ## Documentation
-https:// /
+** Deployed Application
+https://wannabegreat.herokuapp.com/
 
-## GitHub Repository
+** GitHub Repository
 
-https://
+https://github.com/alecfirstcode2021/yhlu_techblog
 
 ## Table of Contents 
 
